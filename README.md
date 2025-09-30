@@ -1,6 +1,6 @@
 # 🎭 Emotion Mirror
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![CSS3](https://img.shields.io/badge/CSS3-Modern-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A **real-time webcam mirror** that reacts dynamically to user-input moods. Apply effects like “angry”, “calm”, “funny”, or “pixel” and see your webcam feed transform instantly.  
 
