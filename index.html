@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <title>Emotion Mirror</title>
+
+            <link rel="stylesheet" href="assets/css/style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Emotion Mirror</h1>
+            <p>Type your mood and see your webcam react in real-time!</p>
+        </header>
+
+        <div class="controls">
+            <input type="text" id="mood-input" placeholder="Type your mood...">
+            <button id="apply-btn">Apply Mood</button>
+            <button id="reset-btn">Reset</button>
+        </div>
+
+        <div class="mirror-container">
+            <video id="webcam" autoplay playsinline></video>
+            <canvas id="canvas"></canvas>
+        </div>
+
+        <script src="assets/js/app.js"></script>
+    </body>
+</html>
